@@ -4,6 +4,9 @@ Este projeto tem como objetivo construir um modelo de rede neural profunda capaz
 ## Link do aplicativo Streamlit
 https://projeto-ia-classificador-de-imagem-vuibtqtccwfdmhvfqercvf.streamlit.app/
 
+## Link do video do Youtube
+https://www.youtube.com/watch?v=EwU4xmixejc&ab_channel=EnzoMaeda
+
 # 📁 Dataset
 ## Fonte: Kaggle - Cats and Dogs
 
