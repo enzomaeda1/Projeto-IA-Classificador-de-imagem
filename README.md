@@ -1,6 +1,9 @@
 # 🐱🐶 Classificação de Imagens de Gatos e Cachorros com Deep Learning
 Este projeto tem como objetivo construir um modelo de rede neural profunda capaz de classificar imagens entre gatos e cachorros com alta precisão. Utilizando técnicas modernas de deep learning e transferência de aprendizado, alcançamos ótimos resultados em validação e teste.
 
+## Link do aplicativo Streamlit
+https://projeto-ia-classificador-de-imagem-vuibtqtccwfdmhvfqercvf.streamlit.app/
+
 # 📁 Dataset
 ## Fonte: Kaggle - Cats and Dogs
 
@@ -67,5 +70,11 @@ Modelo base: MobileNetV2 pré-treinado na ImageNet
 ![image](https://github.com/user-attachments/assets/147df6ee-1c9d-4ab6-9372-147f9cfc49f7)
 
 ![image](https://github.com/user-attachments/assets/328678a1-121f-4691-a9bc-0e2b64b0ad25)
+
+# Aplicativo Streamlit
+
+Foi feito um aplicativo Streamlit onde o usuário pode testar o modelo com imagens de cães e gatos
+
+![image](https://github.com/user-attachments/assets/ad6f976a-9af1-41fb-8792-de5c44a1f538)
 
 
